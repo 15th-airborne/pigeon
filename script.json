@@ -2,6 +2,6 @@
     "周目": 33,
     "DLC": 0,
     "一键下载": ["rsync", "-rP", "--delete", "rsync://119.28.19.148:873/mc/mc/", "./mc/"],
-    "模组更新": ["rsync", "-rP", "--delete", "rsync://119.28.19.148:873/mc/mc/.minecraft/mods/", "./mc/.minecraft/mods/"]
+    "模组更新": ["rsync", "-rP", "--delete", "rsync://119.28.19.148:873/mc/mc/.minecraft/mods/", "./mc/.minecraft/mods/"],
     ".启动游戏": ["./mc/Plain Craft Launcher 2.exe"]
 }
