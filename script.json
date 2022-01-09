@@ -3,5 +3,9 @@
     "DLC": 0,
     "一键下载": ["rsync", "-rP", "--delete", "rsync://119.28.19.148:873/mc/mc/", "./mc/"],
     "模组更新": ["rsync", "-rP", "--delete", "rsync://119.28.19.148:873/mc/mc/.minecraft/mods/", "./mc/.minecraft/mods/"],
-    ".启动游戏": ["./mc/Plain Craft Launcher 2.exe"]
+    ".启动游戏": ["./mc/Plain Craft Launcher 2.exe"],
+    ".打开流媒体": ["cmd", "/C", "start http://89.45.46.85:8096/"],
+    ".打开大盘鸡": ["cmd", "/C", "start http://89.45.46.85:6081/"],
+    ".大盘鸡离线下载": ["cmd", "/C", "start http://89.45.46.85:6080/"],
+    ".高铁客户端": ["cmd", "/C", "start https://github.com/2dust/v2rayN/releases"]
 }
